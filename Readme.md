@@ -26,7 +26,7 @@ My daily Data Structures and Algorithms practice.
 
 ## Progress
 
-| # | LeetCode | Problem        | Topic         | Difficulty | Approach       | Time   | Space  |
-| - | -------- | -------------- | ------------- | ---------- | -------------- | ------ | ------ |
-| 1 | 1        | Two Sum        | Array         | Easy       | Brute Force    | O(n²)  | O(1)   |
-| 2 | 
+| # | LeetCode |          Problem        | Topic         | Difficulty | Approach       | Time   | Space  |
+| - | -------- | ------------------------| ------------- | ---------- | -------------- | ------ | ------ |
+| 1 | 1        | Two Sum                 | Array         | Easy       | Brute Force    | O(n²)  | O(1)   |
+| 2 | 2        | Longest common prefix   |Array          | Easy       | Brute Force    | o(n*m) | O(m)   |
