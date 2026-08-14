@@ -33,4 +33,4 @@ My daily Data Structures and Algorithms practice.
 | 3 | 26       | Remove Duplicate element| Array         | Easy       | 2 Pointer          | o(n)   | o(1)   |
 | 4 | 66       | Plus One                | Array         | Easy       | Carry Propagation  | O(n)   | O(1)   |
 | 5 | 121      | Best Time to Buy and Sell Stock | Array | Easy       | Greedy             | O(n)   | O(1)   |
-| 6 |
+| 6 | 122      | Best Time to Buy and Sell Stock | Array | Meadium    | Greedy             | O(n)   | O(1)   |
