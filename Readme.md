@@ -34,3 +34,5 @@ My daily Data Structures and Algorithms practice.
 | 4 | 66       | Plus One                | Array         | Easy       | Carry Propagation  | O(n)   | O(1)   |
 | 5 | 121      | Best Time to Buy and Sell Stock | Array | Easy       | Greedy             | O(n)   | O(1)   |
 | 6 | 122      | Best Time to Buy and Sell Stock | Array | Meadium    | Greedy             | O(n)   | O(1)   |
+| 7 | 127      | Contains Duplicate      | Array         | Easy       | Nestedl loop,Sorting|O(n^2),O(n)| O(1)|
+
