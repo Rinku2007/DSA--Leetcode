@@ -36,5 +36,7 @@ My daily Data Structures and Algorithms practice.
 | 6 | 122      | Best Time to Buy and Sell Stock | Array | Meadium    | Greedy             | O(n)   | O(1)   |
 | 7 | 127      | Contains Duplicate      | Array         | Easy       | Nestedl loop,Sorting|O(n^2),O(n)| O(1)|
 | 8 | 238      | Product of Array Except Self| Array     | Medium     | Prefix+suffix      | O(n)   | O(1)    |
+| 9 | 58       | Maximum Subarray        | Array         | Medium     | Kadane's Algorithm | O(n)   | O(1)    |
+
 
 
