@@ -38,6 +38,8 @@ My daily Data Structures and Algorithms practice.
 | 8 | 238      | Product of Array Except Self| Array     | Medium     | Prefix+suffix      | O(n)   | O(1)    |
 | 9 | 58       | Maximum Subarray        | Array         | Medium     | Kadane's Algorithm | O(n)   | O(1)    |
 | 10| 34| Find First and Last Position of Element in Sorted Array| Array| Medium| Kadane's Algorithm |O(log n)| O(1)|
+| 11| 152      | Maximum Product Subarray| Array         | Medium     | Kadane's Algorithm | O(n)   | O(1)    |
+
 
 
 
